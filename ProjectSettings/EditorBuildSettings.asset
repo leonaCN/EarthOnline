@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/3rdPackages/Julhiecio TPS Controller/Demo Scenes/Playground.unity
+    guid: c8b967beeda962c40a8267fb18605f06
+  m_configObjects: {}
